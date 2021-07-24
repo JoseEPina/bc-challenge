@@ -36,7 +36,7 @@ As part of this effort, I included the following additional improvements:
 
 ## Deployment Screenshot
 
--  ![Screenshot of full Horiseon Website] (https://github.com/JoseEPina/bc-challenge-01/blob/main/assets/images/screenshot.png "Horiseon Website Screenshot")
+-  ![Screenshot of full Horiseon Website] (https://raw.githubusercontent.com/JoseEPina/bc-challenge-01/main/assets/images/screenshot.png "Horiseon Website Screenshot")
 
 ## Deployment Link
 
