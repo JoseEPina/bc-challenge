@@ -26,21 +26,29 @@ THEN I find a concise, descriptive title
 
 As part of this effort, I included the following additional improvements:
 
-- Ensured that all links are functioning correctly.
-- Cleaned up the CSS to make it more efficient
-- Consolidated CSS selectors and properties.
-- Organized CSS to follow the semantic structure of the HTML elements.
-- Added comments before each element or section of the page for the index.html and style.css files.
-- Added basic LICENSE file.
-- Added .gitignore file
+-  Ensured that all links are functioning correctly.
+-  Cleaned up the CSS to make it more efficient
+-  Consolidated CSS selectors and properties.
+-  Organized CSS to follow the semantic structure of the HTML elements.
+-  Added comments before each element or section of the page for the index.html and style.css files.
+-  Added basic LICENSE file.
+-  Added .gitignore file
+
+## Deployment Screenshot
+
+-  ![Alt text] (../images/screenshot.png?raw=true "Optional Title")
+
+## Deployment Link
+
+-  https://joseepina.github.io/bc-challenge-01/index.html
 
 ## Review and grading
 
 The submission of this project for review and grading required:
 
-- The URL of the deployed application.
-- The URL of the GitHub repository with a unique name.
-- Include a README (this file) describing the project.
+-  The URL of the deployed application.
+-  The URL of the GitHub repository with a unique name.
+-  Include a README (this file) describing the project.
 
-* - - (Adapted from original README file provided for this course)
-      © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+*  -  -  (Adapted from original README file provided for this course)
+         © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
