@@ -36,7 +36,7 @@ As part of this effort, I included the following additional improvements:
 
 ## Deployment Screenshot
 
--  ![Alt text] (../images/screenshot.png?raw=true "Optional Title")
+-  ![Screenshot of full Horiseon Website] (../images/screenshot.png?raw=true "Horiseon Website Screenshot")
 
 ## Deployment Link
 
