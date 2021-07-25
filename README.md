@@ -34,13 +34,19 @@ As part of this effort, I included the following additional improvements:
 -  Added basic LICENSE file.
 -  Added .gitignore file
 
-## Deployment Screenshot
+## Deployment Data
 
--  ![Screenshot of full Horiseon Website] (https://raw.githubusercontent.com/JoseEPina/bc-challenge-01/main/assets/images/screenshot.png "Horiseon Website Screenshot")
+### Application Screenshot
 
-## Deployment Link
+![Screenshot of full Horiseon Website] (/assets/images/screenshot.png?raw=true "Horiseon Website Screenshot")
+
+### Deployment Link
 
 -  https://joseepina.github.io/bc-challenge-01/index.html
+
+### Repository Link
+
+-  https://github.com/JoseEPina/bc-challenge-01
 
 ## Review and grading
 
