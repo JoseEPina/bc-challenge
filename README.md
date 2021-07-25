@@ -38,7 +38,7 @@ As part of this effort, I included the following additional improvements:
 
 ### Application Screenshot
 
-![Screenshot of full Horiseon Website] (/assets/images/screenshot.png?raw=true "Horiseon Website Screenshot")
+![Screenshot of full Horiseon Website](/assets/images/screenshot.png?raw=true "Horiseon Website Screenshot")
 
 ### Deployment Link
 
